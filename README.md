@@ -52,7 +52,6 @@ Open the `.env` file and update the key values as necessary.
 Run the environment setup script:
 ```bash
 export OPENAI_API_KEY=[your-key-here]
-export TAVILY_API_KEY=[your-key-here]
 export LANGCHAIN_API_KEY=[your-key-here]
 export LANGCHAIN_TRACING_V2=true
 export LANGCHAIN_PROJECT=default
