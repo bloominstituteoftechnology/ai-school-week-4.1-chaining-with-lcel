@@ -1,0 +1,9 @@
+openai
+langchain
+langchain_core
+langchain_openai
+langchain_community
+langchain_experimental
+langgraph
+langsmith
+python-dotenv

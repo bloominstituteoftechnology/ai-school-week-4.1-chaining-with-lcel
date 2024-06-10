@@ -56,6 +56,12 @@ export LANGCHAIN_API_KEY=[your-key-here]
 export LANGCHAIN_TRACING_V2=true
 export LANGCHAIN_PROJECT=default
 ```
+### Step 8: Install `poppler` and `tessaract`
+If you have a mac, run the Homebrew script inside the `multi_modal_RAG_chroma.ipynb`: 
+```
+! brew install tesseract
+! brew install poppler
+```
 
 ## Usage
 
